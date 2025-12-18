@@ -6,6 +6,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/final-group25/HEAD)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17970130.svg)](https://doi.org/10.5281/zenodo.17970130)
+
 ## Overview
 
 This analysis conducts some EDA and hypothesis testing to observe the trends in natural disasters, including relationships between factors such as economic loss, total days to recover, the severity of the disaster, etc. Later in the analysis, we will be constructing a Multiple Linear Regression model to help us find out the effects of the different factors involving a natural disaster on the days to recover, in addition to helping us predict how many days a country takes to recover given the magnitude of these factors.
